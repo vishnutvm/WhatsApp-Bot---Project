@@ -42,6 +42,7 @@ Follow the QR code authentication process by scanning it with your WhatsApp mobi
 ### Folder Structure
 
 ```text
+
 whatsapp-bot-project/
 ├── node_modules/
 ├── app/
@@ -57,6 +58,7 @@ whatsapp-bot-project/
 ├── .env
 ├── .env.example
 
+```
 
 - `app/controllers`: Handle message and event logic.
 - `app/models`: Define data models.
@@ -69,4 +71,7 @@ Configuration can be managed through the `config/config.js` file. Here, you can 
 ### Contributing
 
 Contributions are welcome. Feel free to open issues and pull requests to improve and expand the capabilities of your WhatsApp bot project.
+
+```
+
 ```
