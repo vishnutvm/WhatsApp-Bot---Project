@@ -1,6 +1,6 @@
 # WhatsApp Bot Project
 
-![WhatsApp Bot](./assets/project_Image.png) <!-- You can add an image here if you have one -->
+![WhatsApp Bot](./assets/project_Image.png)
 
 _This project is a WhatsApp bot built using the WhatsApp Web JS library and Node.js. It allows you to automate tasks, respond to messages, and handle events on WhatsApp._
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
 1. **Clone the repository:**
 
-git clone <repository-url>
+git clone https://github.com/vishnutvm/WhatsApp-Bot.git
 
 2. **Install dependencies:**
    npm install
@@ -41,12 +41,13 @@ Follow the QR code authentication process by scanning it with your WhatsApp mobi
 
 ### Folder Structure
 
+```text
 whatsapp-bot-project/
 ├── node_modules/
 ├── app/
-│ ├── controllers/
-│ ├── models/
-│ ├── auth/
+│   ├── controllers/
+│   ├── models/
+│   ├── auth/
 ├── config/
 ├── app.js
 ├── package.json
@@ -55,6 +56,7 @@ whatsapp-bot-project/
 ├── README.md
 ├── .env
 ├── .env.example
+
 
 - `app/controllers`: Handle message and event logic.
 - `app/models`: Define data models.
@@ -67,3 +69,4 @@ Configuration can be managed through the `config/config.js` file. Here, you can 
 ### Contributing
 
 Contributions are welcome. Feel free to open issues and pull requests to improve and expand the capabilities of your WhatsApp bot project.
+```

@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "whatsapp-web.js": "^1.22.1"
-  }
+  },
+  "name": "whatsapp-bot",
+  "description": "![WhatsApp Bot](./assets/project_Image.png)",
+  "version": "0.0.1",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnutvm/WhatsApp-Bot.git"
+  },
+  "keywords": [
+    "whatsapp-bot"
+  ],
+  "author": "vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnutvm/WhatsApp-Bot/issues"
+  },
+  "homepage": "https://github.com/vishnutvm/WhatsApp-Bot#readme"
 }
