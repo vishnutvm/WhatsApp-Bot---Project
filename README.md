@@ -71,7 +71,3 @@ Configuration can be managed through the `config/config.js` file. Here, you can 
 ### Contributing
 
 Contributions are welcome. Feel free to open issues and pull requests to improve and expand the capabilities of your WhatsApp bot project.
-
-```
-
-```
