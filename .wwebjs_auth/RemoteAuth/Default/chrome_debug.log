@@ -1,0 +1,6 @@
+[1019/132312.072:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1019/132312.073:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[1019/132313.231:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\hp\Desktop\WhatsApp Bot - Project\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,Corruption: checksum mismatch
+[1019/132313.232:ERROR:indexed_db_factory_impl.cc(715)] Got corruption for { origin: https://web.whatsapp.com, top-level site: https://whatsapp.com, nonce: <null>, ancestor chain bit: Same-Site }, checksum mismatch
+[1019/132313.286:ERROR:indexed_db_factory_impl.cc(849)] IndexedDB recovering from a corrupted (and deleted) database.
+[1019/132313.483:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.6470964955d882fdfd6f.js (7)

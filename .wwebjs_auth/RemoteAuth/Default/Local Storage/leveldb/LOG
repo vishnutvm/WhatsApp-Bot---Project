@@ -1,0 +1,4 @@
+2023/10/19-13:23:11.250 1270 Reusing MANIFEST C:\Users\hp\Desktop\WhatsApp Bot - Project\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/MANIFEST-000001
+2023/10/19-13:23:11.250 1270 Recovering log #3
+2023/10/19-13:23:11.250 1270 (ignoring error) C:\Users\hp\Desktop\WhatsApp Bot - Project\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/000003.log: dropping 23789 bytes; Corruption: checksum mismatch
+2023/10/19-13:23:11.251 1270 Reusing old log C:\Users\hp\Desktop\WhatsApp Bot - Project\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/000003.log 
