@@ -4,6 +4,6 @@ node_modules/
 # Environment configuration
 .env
 
-# Custom folders to ignore
-wwebjs_auth/
-wwebjs_cache/
+# wwebjs folders to ignore
+.wwebjs_auth/
+.wwebjs_cache/
