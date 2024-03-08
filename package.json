@@ -4,6 +4,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "mongoose": "^7.6.3",
+    "openai": "^4.24.1",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.22.1",
     "wwebjs-mongo": "^1.1.0"
@@ -15,8 +16,9 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
+  "type": "module",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon ./src/server.js"
   },
   "repository": {
     "type": "git",
